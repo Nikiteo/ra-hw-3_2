@@ -1,8 +1,13 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/brug910i11eoc0bu?svg=true)](https://ci.appveyor.com/project/Nikiteo/ra-hw-3-2)
+
+### Демо
+https://nikiteo.github.io/ra-hw-3_2
+
 Список предложений
 ===
 
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
-![Список предложений](./assets/preview.png)
+![Список предложений](./public/preview.png)
 
 ## Данные списка предложений
 
